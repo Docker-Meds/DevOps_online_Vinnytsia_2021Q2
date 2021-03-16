@@ -1,0 +1,15 @@
+59a29bf (HEAD -> Master, origin/develop, origin/Master, origin/HEAD, develop) Merge branch 'images' into develop
+3b38136 (origin/images, images) delete commit
+e313929 Merge branch 'styles' into develop
+6b40384 (origin/styles, styles) add mystyle.css
+b327f6b Add img src in index.html
+0ddd46b add index.html
+40c9487 delete old files
+bdd64aa Merge pull request #1 from Docker-Meds/develop
+7439083 index.html
+ca43f0b 	new file:   m2/task2.1/file.txt 	new file:   m3/task3.1/file.txt 	new file:   m3/task3.2/file.txt 	new file:   m4/task4.1/file.txt 	new file:   m4/task4.2/file.txt 	new file:   m5/task5.1/file.txt 	new file:   m5/task5.2/file.txt 	new file:   m6/task6.1/file.txt 	new file:   m6/task6.2/file.txt 	new file:   m7/task7.1/file.txt 	new file:   m7/task7.2/file.txt 	new file:   m8/task8.1/file.txt 	new file:   m8/task8.2/file.txt
+8de7bf7 cp file
+e439223 Delete file.txt
+172f7de add folder
+50d79db file
+2154808 Initial commit
