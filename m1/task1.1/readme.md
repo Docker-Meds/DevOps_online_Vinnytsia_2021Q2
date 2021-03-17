@@ -1,7 +1,7 @@
 ### Yevhen Ladiukov
 #### My work list
 Create new private repo on GitHub.
-Clone repo on my VM server.
+Clone repo on my VM.
 
 Create folder m1/task1.1 ... m8/{task8.1,task8.2}.
 
