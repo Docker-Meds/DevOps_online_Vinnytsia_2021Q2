@@ -34,3 +34,4 @@ Change index.html , commit.
 Merge "images,styles" into develop branch.
 
 Merge develop into master , push origin.
+## DevOps is profession that help automate and integrate processes of development teams and collect, test and release a product.
