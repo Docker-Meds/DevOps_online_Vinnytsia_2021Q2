@@ -37,6 +37,3 @@ Fix index.html file
 
 Merge develop into master , push origin.
 ## DevOps is profession that help automate and integrate processes of development teams and collect, test and release a product.
-
-### test markdown language images
-![image info](https://github.com/Docker-Meds/DevOps_online_Vinnytsia_2021Q2/blob/Master/m1/task1.1/images/ISSCC-wrap-nanosheets-2.jpg)
