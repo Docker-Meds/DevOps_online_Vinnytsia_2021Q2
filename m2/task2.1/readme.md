@@ -18,6 +18,8 @@
 11. Configuring Port Forwarding rule with NAT
 12. Uses CLI VBoxManage modifyvm
 
+![Image](https://github.com/Docker-Meds/DevOps_online_Vinnytsia_2021Q2/blob/Master/m2/task2.1/images/image_2021-03-18_12-11-09.png)
+
 ### PART 3. WORK WITH VAGRANT
 1. Vagrant has already been installed on my workstation
 2. Create folder "ladiukov"  and go to the folder
@@ -26,3 +28,7 @@
 5. Create ubuntu/trusty64 and install nginx
 6. Change port in vagrandfile and reload
 7. nginx work on 8080 port
+
+![Image](https://github.com/Docker-Meds/DevOps_online_Vinnytsia_2021Q2/blob/Master/m2/task2.1/images/image_2021-03-18_14-42-05.png)
+
+![Image](https://github.com/Docker-Meds/DevOps_online_Vinnytsia_2021Q2/blob/Master/m2/task2.1/images/image_2021-03-18_15-50-57.png)
