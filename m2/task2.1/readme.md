@@ -15,4 +15,7 @@
 8. Import Virtual machine and rename in VM3_Yevhen_Ladiukov
 9. Connect the USB-flash drive and mount ports of the host machine to the VM1_Yevhen_Ladiukov
 10. Create SMB folder and share , change virtual network setings 
-11. Configuring Port Forwarding with NAT
+11. Configuring Port Forwarding rule with NAT
+12. Uses CLI VBoxManage modifyvm
+
+### PART 3. WORK WITH VAGRANT
