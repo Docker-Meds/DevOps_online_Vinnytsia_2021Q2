@@ -19,3 +19,10 @@
 12. Uses CLI VBoxManage modifyvm
 
 ### PART 3. WORK WITH VAGRANT
+1. Vagrant has already been installed on my workstation
+2. Create folder "ladiukov"  and go to the folder
+3. Vagrant init hashicorp/precise64  and startup VM
+4. Connect to the VM by ssh port 2222 , on a virtual machine time zone  UTC 0
+5. Create ubuntu/trusty64 and install nginx
+6. Change port in vagrandfile and reload
+7. nginx work on 8080 port
