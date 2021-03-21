@@ -1,7 +1,7 @@
 ## Virtualization and Cloud Basic
 1. Register in AWS
 2. Launch a Linux Virtual Machine with Amazon Lightsai and connect to it
-3. Create firsr instance  t2.micro
+3. Create first instance  t2.micro
 4. Create a snapshot of instance
 5. Create and attach a Disk_D 1GB , save zip file on Disk_D
 6. Create image with instance from backup and launch
