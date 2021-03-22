@@ -13,4 +13,10 @@
 12. Work with Amazon Elastic Container Service and deploy Docker container , create cluster
 13. Create a static website on Amazon S3
 
+## labs
+* Introduction to AWS Identity and Access Management (IAM)
+* Introduction to Amazon EC2
+* Introduction to Amazon DynamoDB
+* Introduction to AWS Lambda
+
 # [link to static website on Amazon S3](http://yevhenladiukov.s3-website.us-east-2.amazonaws.com/)
