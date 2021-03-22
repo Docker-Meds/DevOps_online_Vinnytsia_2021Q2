@@ -18,5 +18,6 @@
 * Introduction to Amazon EC2
 * Introduction to Amazon DynamoDB
 * Introduction to AWS Lambda
+* Introduction to Amazon API Gateway
 
 # [link to static website on Amazon S3](http://yevhenladiukov.s3-website.us-east-2.amazonaws.com/)
