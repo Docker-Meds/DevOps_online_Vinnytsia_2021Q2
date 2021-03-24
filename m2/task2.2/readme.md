@@ -21,3 +21,6 @@
 * Introduction to Amazon API Gateway
 
 # [link to static website on Amazon S3](http://yevhenladiukov.s3-website.us-east-2.amazonaws.com/)
+
+![image](https://github.com/Docker-Meds/DevOps_online_Vinnytsia_2021Q2/blob/Master/m2/task2.2/imges/file/image_2021-03-20_11-33-34.png)
+![image](https://github.com/Docker-Meds/DevOps_online_Vinnytsia_2021Q2/blob/Master/m2/task2.2/imges/file/image_2021-03-20_12-54-18.png)
