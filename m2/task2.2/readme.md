@@ -1,10 +1,10 @@
 ## Virtualization and Cloud Basic
 1. Register in AWS
 2. Launch a Linux Virtual Machine with Amazon Lightsai and connect to it
-3. Create first instance  t2.micro
-4. Create a snapshot of instance
-5. Create and attach a Disk_D 1GB , save zip file on Disk_D
-6. Create image with instance from backup and launch
+3. Created first instance  t2.micro
+4. Created a snapshot of instance
+5. Created and attach a Disk_D 1GB , save zip file on Disk_D
+6. Created image with instance from backup and launch
 7. Detach Disk_D and attach Disk_D to the new instance 
 8. Launch a WordPress instance with Amazon Lightsail
 9. Work in Amazon S3 , create bucket and upload file with AWS CLI 
