@@ -19,7 +19,9 @@
 9. Connected to instance DB ssh and MySQL Workbench.
 
 ### Part 3
-1. Create Dynamo DB table 
+1. Create Dynamo DB table .
+2. Worked with lab "Introduction to Amazon DynamoDB".
+3. Deleted table.
 
 ![image](https://github.com/Docker-Meds/DevOps_online_Vinnytsia_2021Q2/blob/Master/m3/task3.1/images/music.png)
 ![image](https://github.com/Docker-Meds/DevOps_online_Vinnytsia_2021Q2/blob/Master/m3/task3.1/images/image_2021-03-26_15-01-15.png)
