@@ -29,7 +29,7 @@
 9. Used cammand wc, wc .bash_history, -w, -l .
 10. Used cammand find, sudo find /etc -name "host*" .
 11. Used command grep,  grep ss /etc/* , grep ss /etc/* | wc .
-12. Used command cat,  cat /etc/* > catfile.txt or ls /etc > lsfile.txt
+12. Used command ll,  ll /etc | less , ll /etc | more .
 13. Device types looked at devices ls -l /dev , sda - hard disk
 > - Listing USB Devices  "lsusb"
 > - Listing PCI Devices  "lspci" 
