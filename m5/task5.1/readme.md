@@ -42,4 +42,25 @@
 > - protocols
 > - rpc
 
+![image](https://github.com/Docker-Meds/DevOps_online_Vinnytsia_2021Q2/blob/Master/m5/task5.1/images/image_2021-04-08_09-40-42.png)
+
+![image](https://github.com/Docker-Meds/DevOps_online_Vinnytsia_2021Q2/blob/Master/m5/task5.1/images/image_2021-04-08_10-20-39.png)
+
+![image](https://github.com/Docker-Meds/DevOps_online_Vinnytsia_2021Q2/blob/Master/m5/task5.1/images/image_2021-04-08_11-32-34.png)
+
+![image](https://github.com/Docker-Meds/DevOps_online_Vinnytsia_2021Q2/blob/Master/m5/task5.1/images/image_2021-04-08_12-06-59.png)
+
+![image](https://github.com/Docker-Meds/DevOps_online_Vinnytsia_2021Q2/blob/Master/m5/task5.1/images/image_2021-04-09_09-59-04.png)
+
+![image](https://github.com/Docker-Meds/DevOps_online_Vinnytsia_2021Q2/blob/Master/m5/task5.1/images/image_2021-04-09_10-54-02.png)
+
+![image](https://github.com/Docker-Meds/DevOps_online_Vinnytsia_2021Q2/blob/Master/m5/task5.1/images/image_2021-04-09_11-34-35.png)
+
+![image](https://github.com/Docker-Meds/DevOps_online_Vinnytsia_2021Q2/blob/Master/m5/task5.1/images/image_2021-04-09_12-53-08.png)
+
+![image](https://github.com/Docker-Meds/DevOps_online_Vinnytsia_2021Q2/blob/Master/m5/task5.1/images/image_2021-04-09_13-26-17.png)
+
+![image](https://github.com/Docker-Meds/DevOps_online_Vinnytsia_2021Q2/blob/Master/m5/task5.1/images/image_2021-04-09_13-31-15.png)
+
+![image](https://github.com/Docker-Meds/DevOps_online_Vinnytsia_2021Q2/blob/Master/m5/task5.1/images/image_2021-04-09_15-16-04.png)
 
