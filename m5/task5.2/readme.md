@@ -39,9 +39,16 @@
 17. Used sticky bit, "sudo chmod o+t(1777) mydir"
 18. Used command file : " file * "     firstscript.sh: Bourne-Again shell script, ASCII text executable.
 
-![image](https://github.com/Docker-Meds/DevOps_online_Vinnytsia_2021Q2/blob/Master/m5/task5.2/images/image_2021-04-13_09-36-25.png)  
+![image](https://github.com/Docker-Meds/DevOps_online_Vinnytsia_2021Q2/blob/Master/m5/task5.2/images/image_2021-04-13_09-36-25.png)   
+
 ![image](https://github.com/Docker-Meds/DevOps_online_Vinnytsia_2021Q2/blob/Master/m5/task5.2/images/image_2021-04-13_11-01-23.png)  
+
 ![image](https://github.com/Docker-Meds/DevOps_online_Vinnytsia_2021Q2/blob/Master/m5/task5.2/images/image_2021-04-13_11-10-16.png)  
+
 ![image](https://github.com/Docker-Meds/DevOps_online_Vinnytsia_2021Q2/blob/Master/m5/task5.2/images/image_2021-04-13_12-41-21.png)  
-![image](https://github.com/Docker-Meds/DevOps_online_Vinnytsia_2021Q2/blob/Master/m5/task5.2/images/image_2021-04-13_12-48-32.png)  
+
+![image](https://github.com/Docker-Meds/DevOps_online_Vinnytsia_2021Q2/blob/Master/m5/task5.2/images/image_2021-04-13_12-48-32.png) 
+
 ![image](https://github.com/Docker-Meds/DevOps_online_Vinnytsia_2021Q2/blob/Master/m5/task5.2/images/image_2021-04-13_14-02-46.png)  
+
+![image](https://github.com/Docker-Meds/DevOps_online_Vinnytsia_2021Q2/blob/Master/m5/task5.2/images/image_2021-04-14_09-53-10.png)
