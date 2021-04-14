@@ -37,7 +37,7 @@
 > - Files:644. The owner can read and modify the files. Group and others can only read the files  
 > - Directories:755.The owner can cd into the directory, and list, read, modify, create or delete the files in the directory. Group and others can cd into the directory and list and read the files  
 17. Used sticky bit, "sudo chmod o+t(1777) mydir"
-18. Used command lsattr: 
+18. Used command file : " file * "     firstscript.sh: Bourne-Again shell script, ASCII text executable.
 
 ![image](https://github.com/Docker-Meds/DevOps_online_Vinnytsia_2021Q2/blob/Master/m5/task5.2/images/image_2021-04-13_09-36-25.png)  
 ![image](https://github.com/Docker-Meds/DevOps_online_Vinnytsia_2021Q2/blob/Master/m5/task5.2/images/image_2021-04-13_11-01-23.png)  
