@@ -50,11 +50,39 @@
 > - jobs: Display a list of the jobs with their status
 > - fg: Move a background job into the foreground
 > - bg: Resume suspended jobs by running them as background jobs
-17. Improved to Secure Open SSH , nano /etc/ssh/sshd_config
+
+### PART2
+
+1. Improved to Secure Open SSH , nano /etc/ssh/sshd_config
 > - Configure Idle Timeout Interval :ClientAliveInterval 360, ClientAliveCountMax 0
 > - Disable Empty Passwords : PermitEmptyPasswords no
 > - Disable Root Logins : PermitRootLogin no
 > - Use another port SSH : 22 to changed 22200
 > - Worked with SSh key : ssh-keygen -t rsa -b 4096, ssh-keygen -t rsa -b 4096 -o -a 250 -C “Student” , 
-18. Setup port forwardiing  for ssh client for host to virtual machine behind NAT: 2222 -> 22
-19. Used wireshark , intercept ssh traffic  while authorizing the 
+2. Setup port forwardiing  for ssh client for host to virtual machine behind NAT: 2222 -> 22
+3. Used wireshark , intercept ssh traffic  while authorizing the remote client
+
+
+![images](https://github.com/Docker-Meds/DevOps_online_Vinnytsia_2021Q2/blob/Master/m5/task5.3/images/1.PNG)
+
+![images](https://github.com/Docker-Meds/DevOps_online_Vinnytsia_2021Q2/blob/Master/m5/task5.3/images/2.PNG)
+
+![images](https://github.com/Docker-Meds/DevOps_online_Vinnytsia_2021Q2/blob/Master/m5/task5.3/images/3.PNG)
+
+![images](https://github.com/Docker-Meds/DevOps_online_Vinnytsia_2021Q2/blob/Master/m5/task5.3/images/4.PNG)
+
+![images](https://github.com/Docker-Meds/DevOps_online_Vinnytsia_2021Q2/blob/Master/m5/task5.3/images/4.PNG)
+
+![images](https://github.com/Docker-Meds/DevOps_online_Vinnytsia_2021Q2/blob/Master/m5/task5.3/images/5.PNG)
+
+![images](https://github.com/Docker-Meds/DevOps_online_Vinnytsia_2021Q2/blob/Master/m5/task5.3/images/6.PNG)
+
+![images](https://github.com/Docker-Meds/DevOps_online_Vinnytsia_2021Q2/blob/Master/m5/task5.3/images/7.PNG)
+
+![images](https://github.com/Docker-Meds/DevOps_online_Vinnytsia_2021Q2/blob/Master/m5/task5.3/images/8.PNG)
+
+![images](https://github.com/Docker-Meds/DevOps_online_Vinnytsia_2021Q2/blob/Master/m5/task5.3/images/9.PNG)
+
+![images](https://github.com/Docker-Meds/DevOps_online_Vinnytsia_2021Q2/blob/Master/m5/task5.3/images/10.PNG)
+
+![image](https://github.com/Docker-Meds/DevOps_online_Vinnytsia_2021Q2/blob/Master/m5/task5.3/images/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202021-04-15%2015-11-36.png)
