@@ -45,4 +45,8 @@
 13. Used commands nice and renice: nice -n -5 mysql , renice -n -2  -u mysql
 14. top command, press r.  PID  Give renice value (from -20 to +19)
 15. Used command kill : kill -l , kill PID, kill -9
-16. Used 
+16. Used commands jobs, fg, bg, nohup
+> - nohup: To run a process in no hangup status
+> - jobs: Display a list of the jobs with their status
+> - fg: Move a background job into the foreground
+> - bg: Resume suspended jobs by running them as background jobs
