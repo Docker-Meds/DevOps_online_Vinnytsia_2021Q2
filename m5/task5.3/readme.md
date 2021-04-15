@@ -50,3 +50,11 @@
 > - jobs: Display a list of the jobs with their status
 > - fg: Move a background job into the foreground
 > - bg: Resume suspended jobs by running them as background jobs
+17. Improved to Secure Open SSH , nano /etc/ssh/sshd_config
+> - Configure Idle Timeout Interval :ClientAliveInterval 360, ClientAliveCountMax 0
+> - Disable Empty Passwords : PermitEmptyPasswords no
+> - Disable Root Logins : PermitRootLogin no
+> - Use another port SSH : 22 to changed 22200
+> - Worked with SSh key : ssh-keygen -t rsa -b 4096, ssh-keygen -t rsa -b 4096 -o -a 250 -C “Student” , 
+18. Setup port forwardiing  for ssh client for host to virtual machine behind NAT: 2222 -> 22
+19. Used wireshark , intercept ssh traffic  while authorizing the 
