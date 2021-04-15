@@ -39,3 +39,10 @@
 > - h : Help
 > - k : kill task
 > - q : Quit from top
+> - M : Same as above but sorts by Memory usage
+> - P : This command sorts all displayed processes by CPU usage
+12. Sort processes : ps -p <pid>, ps -G <groupname>, ps -ef, ps -ef --sort user,pid
+13. Used commands nice and renice: nice -n -5 mysql , renice -n -2  -u mysql
+14. top command, press r.  PID  Give renice value (from -20 to +19)
+15. Used command kill : kill -l , kill PID, kill -9
+16. Used 
