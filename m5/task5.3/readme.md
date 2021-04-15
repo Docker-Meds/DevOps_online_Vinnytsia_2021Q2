@@ -22,4 +22,20 @@
 > - RES 	Physical memory used (kb)
 > - SHR 	Shared memory used (kb)
 8. print user processes : top -u USERNAME or ps -u USERNAME
-9. 
+9. Used command : lsof, pidstat, top, htop, ps, netstat
+10. Described colums top
+> - PID: Shows task’s unique process id.
+> - PR: Stands for priority of the task.
+> - SHR: Represents the amount of shared memory used by a task.
+> - VIRT: Total virtual memory used by the task.
+> - USER: User name of owner of task.
+> - %CPU: Represents the CPU usage.
+> - TIME+: CPU Time, the same as ‘TIME’, but reflecting more granularity through hundredths of a second.
+> - SHR: Represents the Shared Memory size (kb) used by a task.
+> - NI: Represents a Nice Value of task.
+> - %MEM: Shows the Memory usage of task
+11. Interactive command TOP :
+> - Enter or Space :Refresh
+> - h : Help
+> - k : kill task
+> - q : Quit from top
