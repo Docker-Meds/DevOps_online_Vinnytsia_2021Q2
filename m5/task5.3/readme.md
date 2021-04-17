@@ -53,15 +53,23 @@
 
 ### PART2
 
-1. Improved to Secure Open SSH , nano /etc/ssh/sshd_config
+1. Worked with openSSH client in Windows OS : ssh.exe, scp.exe, ssh-keygen.exe
+2. Improved to Secure Open SSH , nano /etc/ssh/sshd_config
 > - Configure Idle Timeout Interval :ClientAliveInterval 360, ClientAliveCountMax 0
 > - Disable Empty Passwords : PermitEmptyPasswords no
 > - Disable Root Logins : PermitRootLogin no
 > - Use another port SSH : 22 to changed 22200
 > - Worked with SSh key : ssh-keygen -t rsa -b 4096, ssh-keygen -t rsa -b 4096 -o -a 250 -C “Student” , 
-2. Setup port forwardiing  for ssh client for host to virtual machine behind NAT: 2222 -> 22
-3. Used wireshark , intercept ssh traffic  while authorizing the remote client
+3. Setup port forwardiing  for ssh client for host to virtual machine behind NAT: 2222 -> 22
+4. Used wireshark , intercept ssh traffic  while authorizing the remote client
 
+![images](https://github.com/Docker-Meds/DevOps_online_Vinnytsia_2021Q2/blob/Master/m5/task5.3/images/8.PNG)
+
+![images](https://github.com/Docker-Meds/DevOps_online_Vinnytsia_2021Q2/blob/Master/m5/task5.3/images/11.PNG)
+
+![images](https://github.com/Docker-Meds/DevOps_online_Vinnytsia_2021Q2/blob/Master/m5/task5.3/images/12.PNG)
+
+![images](https://github.com/Docker-Meds/DevOps_online_Vinnytsia_2021Q2/blob/Master/m5/task5.3/images/14.PNG)
 
 ![images](https://github.com/Docker-Meds/DevOps_online_Vinnytsia_2021Q2/blob/Master/m5/task5.3/images/1.PNG)
 
@@ -78,8 +86,6 @@
 ![images](https://github.com/Docker-Meds/DevOps_online_Vinnytsia_2021Q2/blob/Master/m5/task5.3/images/6.PNG)
 
 ![images](https://github.com/Docker-Meds/DevOps_online_Vinnytsia_2021Q2/blob/Master/m5/task5.3/images/7.PNG)
-
-![images](https://github.com/Docker-Meds/DevOps_online_Vinnytsia_2021Q2/blob/Master/m5/task5.3/images/8.PNG)
 
 ![images](https://github.com/Docker-Meds/DevOps_online_Vinnytsia_2021Q2/blob/Master/m5/task5.3/images/9.PNG)
 
