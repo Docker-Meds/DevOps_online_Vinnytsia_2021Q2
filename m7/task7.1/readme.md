@@ -39,3 +39,20 @@ awk '{ print $1}' $1 | sort | uniq -c | sort -nr | head -n1 > $file_out
 read line1  
 }<$file_out  
 echo $line1  
+
+
+![images](https://github.com/Docker-Meds/DevOps_online_Vinnytsia_2021Q2/blob/Master/m7/task7.1/images/0.PNG)
+
+![images](https://github.com/Docker-Meds/DevOps_online_Vinnytsia_2021Q2/blob/Master/m7/task7.1/images/1.PNG)
+
+![images](https://github.com/Docker-Meds/DevOps_online_Vinnytsia_2021Q2/blob/Master/m7/task7.1/images/2.PNG)
+
+![images](https://github.com/Docker-Meds/DevOps_online_Vinnytsia_2021Q2/blob/Master/m7/task7.1/images/3.PNG)
+
+![images](https://github.com/Docker-Meds/DevOps_online_Vinnytsia_2021Q2/blob/Master/m7/task7.1/images/4.PNG)
+
+![images](https://github.com/Docker-Meds/DevOps_online_Vinnytsia_2021Q2/blob/Master/m7/task7.1/images/5.PNG)
+
+![images](https://github.com/Docker-Meds/DevOps_online_Vinnytsia_2021Q2/blob/Master/m7/task7.1/images/6.PNG)
+
+![images](https://github.com/Docker-Meds/DevOps_online_Vinnytsia_2021Q2/blob/Master/m7/task7.1/images/7.PNG)
