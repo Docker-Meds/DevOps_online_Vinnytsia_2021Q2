@@ -25,7 +25,7 @@ fi
 1.Search for ip that has most of requests  
 #!/bin/bash  
 file_out=out_script2  
-awk '{ print $1}' $1 | sort | uniq -c | sort -nr | head -n1 > $file_out  
+awk '{ print $1}' $1 | sort | uniq -c | sort -nr > $file_out  
 {  
 read line1  
 }<$file_out  
@@ -39,6 +39,13 @@ awk '{ print $1}' $1 | sort | uniq -c | sort -nr | head -n1 > $file_out
 read line1  
 }<$file_out  
 echo $line1  
+
+3.How many requests were there from each ip  
+#!/bin/bash  
+file_out=out_script3  
+awk '{ print $1}' $1 | sort | uniq -c | sort -nr | head -n20  
+echo $1  
+
 
 
 ![images](https://github.com/Docker-Meds/DevOps_online_Vinnytsia_2021Q2/blob/Master/m7/task7.1/images/0.PNG)
