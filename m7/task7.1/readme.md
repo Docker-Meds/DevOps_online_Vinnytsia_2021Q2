@@ -44,16 +44,16 @@ awk '{ print $1}' $1 | sort | uniq -c | sort -nr | head -n20
 echo $1  
 
 #### 4.Search page with status 404 
-#!/bin/bash
-file_out=out_script7
-awk '{ if($9 == 404) { print $7 } }' $1 | sort | uniq -c | sort -fr
-echo END
+#!/bin/bash  
+file_out=out_script7  
+awk '{ if($9 == 404) { print $7 } }' $1 | sort | uniq -c | sort -fr  
+echo END  
 
 #### 5.Search what time did site get the most requests  
-#!/bin/bash
-file_out=out_script6
-awk '{print $1,$4,$5}' apache_logs.txt | sort | uniq -c | sort -fr | head -n 30
-echo END
+#!/bin/bash  
+file_out=out_script6  
+awk '{print $1,$4,$5}' apache_logs.txt | sort | uniq -c | sort -fr | head -n 30  
+echo END  
 
 #### 6.Search what search bots have accessed the site  
 #!/bin/bash  
