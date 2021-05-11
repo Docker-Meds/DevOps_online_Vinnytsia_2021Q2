@@ -82,8 +82,6 @@ if __name__ == "__main__":
   unittest.main()  
   
   
-![images](https://github.com/Docker-Meds/DevOps_online_Vinnytsia_2021Q2/blob/Master/m9/task9.1/images/1.PNG)
-
 ![images](https://github.com/Docker-Meds/DevOps_online_Vinnytsia_2021Q2/blob/Master/m9/task9.1/images/2.PNG)
 
 ![images](https://github.com/Docker-Meds/DevOps_online_Vinnytsia_2021Q2/blob/Master/m9/task9.1/images/3.PNG)
