@@ -15,10 +15,10 @@
 
 ![images](https://github.com/Docker-Meds/DevOps_online_Vinnytsia_2021Q2/blob/Master/m8/task8.1/images/1.PNG)  
 
-![images](https://github.com/Docker-Meds/DevOps_online_Vinnytsia_2021Q2/blob/Master/m8/task8.1/images/2.PNG)  
+![images](https://github.com/Docker-Meds/DevOps_online_Vinnytsia_2021Q2/blob/Master/m8/task8.1/images/12.PNG)  
 
-![images](https://github.com/Docker-Meds/DevOps_online_Vinnytsia_2021Q2/blob/Master/m8/task8.1/images/3.PNG)  
+![images](https://github.com/Docker-Meds/DevOps_online_Vinnytsia_2021Q2/blob/Master/m8/task8.1/images/17.PNG)  
 
-![images](https://github.com/Docker-Meds/DevOps_online_Vinnytsia_2021Q2/blob/Master/m8/task8.1/images/4.PNG)  
+![images](https://github.com/Docker-Meds/DevOps_online_Vinnytsia_2021Q2/blob/Master/m8/task8.1/images/16.PNG)  
 
-![images](https://github.com/Docker-Meds/DevOps_online_Vinnytsia_2021Q2/blob/Master/m8/task8.1/images/5.PNG)  
+![images](https://github.com/Docker-Meds/DevOps_online_Vinnytsia_2021Q2/blob/Master/m8/task8.1/images/18.PNG)
